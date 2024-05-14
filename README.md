@@ -1,4 +1,4 @@
-<img align="center" alt="Rodrigo-gifs" height="20" width="1080" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img align="center" alt="Rodrigo-gifs" height="30" width="1080" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
  Olá mundo! Meu nome é Rodrigo Rodrigues :)
 
 - 💾 Cursando Engenharia de Software | Universidade Federal do Ceará
@@ -24,7 +24,7 @@ Redes sociais/Meios de contato:
 <a href = "mailto:rrodrigues.dev21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-<img align="center" alt="Rodrigo-gifs" height="20" width="1080" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img align="center" alt="Rodrigo-gifs" height="30" width="1080" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
  
  
