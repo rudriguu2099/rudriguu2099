@@ -1,4 +1,5 @@
-### Olá mundo! Meu nome é Rodrigo Rodrigues
+<img align="center" alt="Rodrigo-gifs" height="20" width="1080" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+ Olá mundo! Meu nome é Rodrigo Rodrigues :)
 
 - 💾 Cursando Engenharia de Software | Universidade Federal do Ceará
 - 📚 Treinando Python e C/C++ no site Beecrowd. 
@@ -22,6 +23,8 @@ Redes sociais/Meios de contato:
 <a href = "https://judge.beecrowd.com/pt/profile/980432"><img src="https://hermes.dio.me/articles/cover/3f84021b-aa8b-45b2-9641-8d2fe240174e.jpg" target="target="_blank" height="28" width="110"></a>
 <a href = "mailto:rrodrigues.dev21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
+
+<img align="center" alt="Rodrigo-gifs" height="20" width="1080" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
  
  
