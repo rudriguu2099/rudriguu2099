@@ -8,11 +8,11 @@
   <img align="center" alt="Rodrigo-gifs" height="90" width="90" src="https://media.tenor.com/dF-PYwpJP0MAAAAi/nino-nakano-pet-the-cat.gif">
 
 ## 
-Tecnologias que atualmente domino/estou aprendendo:
+Tecnologias que atualmente estou aprendendo:
   <div style="display: inline_block;"><br>
-  <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin-top: 1 rem;">
-  <img align="center" alt="Rodrigo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="margin-top: 1 rem;">
-  <img align="center" alt="Rodrigo-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="margin-top: 1 rem;">
+  <img align="center" alt="Rodrigo-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin-top: 1 rem;">
+  <img align="center" alt="Rodrigo-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="margin-top: 1 rem;">
+  <img align="center" alt="Rodrigo-Cplusplus" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="margin-top: 1 rem;">
 
     
 ## 
