@@ -2,7 +2,7 @@
  Olá mundo! Meu nome é Rodrigo Rodrigues :)
 
 - 💾 Cursando Engenharia de Software | Universidade Federal do Ceará
-- 📚 Treinando Python e C/C++ no site Beecrowd. 
+- 📚 Treinando Python e C/C++ no site Beecrowd e com alguns outros projetos 😊. 
   
   <img align="center" alt="Rodrigo-gifs" height="90" width="90" src="https://media.tenor.com/dF-PYwpJP0MAAAAi/nino-nakano-pet-the-cat.gif">
 
