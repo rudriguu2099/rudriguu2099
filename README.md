@@ -9,8 +9,8 @@
 ### Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudriguu2099&theme=dracula&hide_border=true" height="150" alt="stats graph">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudriguu2099&layout=compact&langs_count=4&theme=dracula&hide_border=true" height="150" alt="languages graph">
+  <a href="https://github.com/rudriguu2099" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api?username=rudriguu2099&theme=dracula&hide_border=true" height="150" alt="stats graph">
+  <a href="https://github.com/rudriguu2099" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudriguu2099&layout=compact&langs_count=4&theme=dracula&hide_border=true" height="150" alt="languages graph">
 </p>
 
 <p align="center">
@@ -18,10 +18,13 @@
 </p>
 
 ### Atualmente aprendendo
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<div>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </a>
+  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> </a>
+</div>
 
 ### Meios de contato
 Você pode me contatar via [Email](mailto:rrodrigues.dev21@gmail.com) ou no [Instagram](https://www.instagram.com/rudriguu_2099/).
