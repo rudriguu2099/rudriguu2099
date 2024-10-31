@@ -1,23 +1,23 @@
 <img align="center" alt="Rodrigo-gifs" height="30" width="1080" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-## Olá! Eu sou Rodrigo Rodrigues :)
+## Hello! I'm Rodrigo Rodrigues :)
 
-### Sobre mim
-- 🎓 Cursando Engenharia de Software | Universidade Federal do Ceará
-- 📅 1° Semestre
+### About Me
+- 🎓 Software Engineering Student | Federal University of Ceará
+- 📅 2nd Semester
 
-### Estatísticas
+### Stats
 
 <p align="center">
-  <a href="https://github.com/rudriguu2099" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api?username=rudriguu2099&theme=dracula&hide_border=true" height="150" alt="stats graph">
-  <a href="https://github.com/rudriguu2099" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudriguu2099&layout=compact&langs_count=4&theme=dracula&hide_border=true" height="150" alt="languages graph">
+  <a href="https://github.com/rudriguu2099" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api?username=rudriguu2099&theme=dracula&hide_border=true" height="150" alt="stats graph"> </a>
+  <a href="https://github.com/rudriguu2099" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudriguu2099&layout=compact&langs_count=4&theme=dracula&hide_border=true" height="150" alt="languages graph"> </a>
 </p>
 
 <p align="center">
-  Para mais estatísticas, visite meu perfil no <a href="https://judge.beecrowd.com/pt/profile/980432">Beecrowd</a>.
+  For more stats, check out my profile on <a href="https://judge.beecrowd.com/pt/profile/980432">Beecrowd</a>.
 </p>
 
-### Atualmente aprendendo
+### Currently Learning
 
 <div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </a>
@@ -26,8 +26,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> </a>
 </div>
 
-### Meios de contato
-Você pode me contatar via [Email](mailto:rrodrigues.dev21@gmail.com) ou no [Instagram](https://www.instagram.com/rudriguu_2099/).
+### Contact
+You can reach me via [Email](mailto:rrodrigues.dev21@gmail.com) or on [Instagram](https://www.instagram.com/rudriguu_2099/).
 
 <p align="center">
   <img src="https://media.tenor.com/dF-PYwpJP0MAAAAi/nino-nakano-pet-the-cat.gif" alt="Rodrigo-gifs" width="180" height="180">
