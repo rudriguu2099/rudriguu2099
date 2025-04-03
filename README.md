@@ -4,7 +4,7 @@
 
 ### About Me
 - 🎓 Software Engineering Student | Federal University of Ceará
-- 📅 2nd Semester
+- 📅 3nd Semester
 
 ### Stats
 
