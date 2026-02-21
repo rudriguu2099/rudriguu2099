@@ -35,6 +35,6 @@
 ## Contact 
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rrodriguesdev21@gmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rrodrigues20)
 
 <img align="center" alt="Rodrigo-gifs" height="30" width="1080" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
