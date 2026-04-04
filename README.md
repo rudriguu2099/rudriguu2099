@@ -2,17 +2,17 @@
 <h1 align="center">Hello, I'm Rodrigo Rodrigues ;]</h1>
 
 ## Currently Learning  
-    (Javascript, HTML, CSS | NodeJS, Electron | PostgreSQL | Shell, Shellscript)
+    (Javascript, HTML, CSS | Spring )
 
 
 ## My Solid Tech Skills
-    (C, C++, Python | Git, GitHub | Linux)
+    (Python, Java | Git, GitHub | Linux | PostgreSQL | Docker)
     
 ---
 
 ## About me
 - Software Engineering student | Federal University of Ceará (UFC)
-- 4nd semester
+- 5nd semester
 - Trying post and share some stuff on Github
 - Linux enjoyer :D
 ---
