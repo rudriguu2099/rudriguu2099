@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Rodrigo Rodrigues ;]</h1>
 
 ## Currently Learning  
-    (Javascript, HTML, CSS | Spring )
+    (Javascript, HTML, CSS | Spring)
 
 
 ## My Solid Tech Skills
